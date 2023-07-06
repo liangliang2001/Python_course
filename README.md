@@ -1,3 +1,3 @@
 # Python_course
 Some python code in the course, you can find some problem in Openjudge and you can practice them in your spare time.
-And the PPT is designed by Guo Wei in the PKU.
+And the PPT is designed by Guo Wei in the PKU,and you can download the same resources in MOOC.
